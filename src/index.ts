@@ -1,3 +1,5 @@
+export { default as CopyLinkIcon } from './CopyLinkIcon';
+export { default as CopyLinkShareButton } from './CopyLinkShareButton';
 export { default as EmailIcon } from './EmailIcon';
 export { default as EmailShareButton } from './EmailShareButton';
 export { default as FacebookIcon } from './FacebookIcon';
@@ -47,3 +49,6 @@ export { default as WhatsappIcon } from './WhatsappIcon';
 export { default as WhatsappShareButton } from './WhatsappShareButton';
 export { default as WorkplaceIcon } from './WorkplaceIcon';
 export { default as WorkplaceShareButton } from './WorkplaceShareButton';
+export { default as createIcon } from './hocs/createIcon';
+export { default as createShareButton } from './hocs/createShareButton';
+export { default as createShareCount } from './hocs/createShareCount';
