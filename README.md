@@ -1,6 +1,6 @@
 # react-share
 
-[![npm version](https://badge.fury.io/js/@nicolasepiscopo/react-share.svg)](https://badge.fury.io/js/@nicolasepiscopo/react-share)
+[![npm version](https://badge.fury.io/js/@nicolasepiscopo%2Freact-share.svg)](https://badge.fury.io/js/@nicolasepiscopo%2Freact-share.svg)
 [![Download Count](http://img.shields.io/npm/dm/@nicolasepiscopo/react-share.svg?style=flat-square)](https://npmjs.org/package/@nicolasepiscopo/react-share)
 
 > Social media share buttons and share counts for React.
